@@ -6,3 +6,5 @@ const asyncHandler  => () => {}
 const asyncHandler = (func) => async() => {}
 
 const asyncHandler = (fn) => async() => {}
+
+//formats of async structures
